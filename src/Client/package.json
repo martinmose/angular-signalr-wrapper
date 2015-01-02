@@ -1,0 +1,8 @@
+{
+  "name": "test-signalr",
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.5",
+    "grunt-bower-install": "~1.6.0"
+  }
+}
